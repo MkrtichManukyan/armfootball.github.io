@@ -206,3 +206,10 @@ body{
 .liga-block-disign a img{
     margin-bottom: 15px;
 }
+.exit-leagues{
+    margin: 25px;
+}
+.exit-leagues a i{
+    color: var(--white);
+    font-size: 25px;
+}
