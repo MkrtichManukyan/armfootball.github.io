@@ -213,3 +213,16 @@ body{
     color: var(--white);
     font-size: 25px;
 }
+.news-block-disign p{
+    color: var(--white);
+    margin-left: 5%;
+}
+.news-text-one-disign{
+    font-size: 35px;
+    font-family: 'Noto Serif Armenian', serif;
+    margin-top: 5%;
+}
+.news-text-two-disign{
+    font-size: 25px;
+    font-family: 'Noto Serif Armenian', serif;
+}
